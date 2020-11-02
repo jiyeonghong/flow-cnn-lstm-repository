@@ -1,2 +1,3 @@
 # machineLearning_gitrepo
-# flow-cnn-lstm-repository
+
+Assessed the impact of land use change, grassland establishment, and grassland operation on water quantity and water quality using SWAT
